@@ -2,6 +2,7 @@
 #### **I am Full Stack Developer**
 #### My knowledges: 
   Frontend: Vue.js, React, Nuxt, Next
+  
   Backend: Express, Nestjs
   
 - 🔭 I’m currently working on **daksin-script**

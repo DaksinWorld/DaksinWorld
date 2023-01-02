@@ -5,5 +5,3 @@
   
   Backend: Express, Nestjs
   
-- 🔭 I’m currently working on **daksin-script**
-- 🤔 I’m looking for help with **daksin-script**

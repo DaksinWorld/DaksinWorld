@@ -3,5 +3,5 @@
 #### My knowledges: 
   Frontend: Vue.js, React, Nuxt, Next
   
-  Backend: Express, Nestjs
+  Backend: Express, Nestjs, Golang
   
